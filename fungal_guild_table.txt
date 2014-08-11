@@ -1,357 +1,357 @@
 Taxon	Taxon Level	Function	Type	Likelihood	Notes	Citation/Source
-Aspergillus fumigatus	8	Pathogen	Animal Pathogen	Possible	Opportunistic pathogens causing aspergillosis	"Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194"
-Aspergillus sydowii 	8	Pathogen	Animal Pathogen	Possible	Sea-fan aspergillosis	"Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194"
-Batrachochytrium dendrobatidis	8	Pathogen	Animal Pathogen	Highly_Probable	Amphibians chytridiomycosis	"Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194"
-Batrachochytrium salamandrivorans	8	Pathogen	Animal Pathogen	Highly_Probable	Salamander chytridiomycosis	"Martel A, Spitzen-van der Sluijs A, Blooi M, Bert W, Ducatelle R, Fisher MC, Woeltjes A, Bosman W, Chiers K, Bossuyt F, Pasmans F. 2013. Proceedings of the National Academy of Sciences of the United States of America 110: 15325_15329"
-Geomyces destructans	8	Pathogen	Animal Pathogen	Highly_Probable	White Nose Syndrome	"Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194"
-Pseudogymnoascus destructans	8	Pathogen	Animal Pathogen	Highly_Probable	White Nose Syndrome	"Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194"
-Acaulospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Acaulosporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Albahypha	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Ambispora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Ambisporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Archaeospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Archaeosporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Archaeosporales	5	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Cetraspora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Claroideoglomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Dentiscutata	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Diversispora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Diversisporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Diversisporales	5	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Entrophospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Entrophosporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Funneliformis	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Fuscutata	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Geosiphonaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Gigaspora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Gigasporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Glomeraceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Glomerales	5	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Glomeromycota	1	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Glomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Instraspora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Intraomatospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Intraspora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Kuklospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Orbispora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Otospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Pacispora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Pacisporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Paraglomeraceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Paraglomerales	5	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Paraglomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Quatinica	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Quatunica	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Racocetra	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Redeckera	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Rhizophagus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Sacculospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Sclerocystis	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Scutellospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Septoglomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Simiglomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Viscospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Acephala	7	Symbiont	Ectomycorrhizal	Possible	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM/Not ECM)"
-Afroboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Alnicola	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Alpova	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Amanita	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Amarrendia	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html"
-Amaurodon	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Amphinema	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Amylascus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Anamika	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Andebbia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Arcangeliella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Aroramyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Astraeus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Astrosporina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Aureoboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Auritella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Austroboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Austrogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
-Austrogautieria	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Austropaxillus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Balsamia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Bankera	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Barssia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Boletellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Boletinus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Boletochaete	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
-Boletopsis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Boletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Bothia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Boughera	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (NA)"
-Brauniellula	7	Symbiont	Ectomycorrhizal	Possible	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)"
-Byssocorticium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Cadophora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Calostoma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Cantharellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Castoreum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Catathelasma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Cazia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Cenococcum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Ceratobasidium	7	Symbiont	Ectomycorrhizal	Possible	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)"
-Chalciporus	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Chamonixia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Chloridium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Chlorogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Choiromyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Chondrogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Chromelosporium	7	Symbiont	Ectomycorrhizal	Possible	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)"
-Chroogomphus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Clavariadelphus	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html"
-Clavulina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Corditubera	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Aspergillus fumigatus	8	Pathogen	Animal Pathogen	Possible	Opportunistic pathogens causing aspergillosis	Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194
+Aspergillus sydowii 	8	Pathogen	Animal Pathogen	Possible	Sea-fan aspergillosis	Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194
+Batrachochytrium dendrobatidis	8	Pathogen	Animal Pathogen	Highly_Probable	Amphibians chytridiomycosis	Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194
+Batrachochytrium salamandrivorans	8	Pathogen	Animal Pathogen	Highly_Probable	Salamander chytridiomycosis	Martel A, Spitzen-van der Sluijs A, Blooi M, Bert W, Ducatelle R, Fisher MC, Woeltjes A, Bosman W, Chiers K, Bossuyt F, Pasmans F. 2013. Proceedings of the National Academy of Sciences of the United States of America 110: 15325_15329
+Geomyces destructans	8	Pathogen	Animal Pathogen	Highly_Probable	White Nose Syndrome	Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194
+Pseudogymnoascus destructans	8	Pathogen	Animal Pathogen	Highly_Probable	White Nose Syndrome	Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194
+Acaulospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Acaulosporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Albahypha	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Ambispora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Ambisporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Archaeospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Archaeosporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Archaeosporales	5	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Cetraspora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Claroideoglomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Dentiscutata	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Diversispora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Diversisporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Diversisporales	5	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Entrophospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Entrophosporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Funneliformis	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Fuscutata	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Geosiphonaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Gigaspora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Gigasporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Glomeraceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Glomerales	5	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Glomeromycota	1	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Glomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Instraspora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Intraomatospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Intraspora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Kuklospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Orbispora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Otospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Pacispora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Pacisporaceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Paraglomeraceae	6	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Paraglomerales	5	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Paraglomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Quatinica	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Quatunica	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Racocetra	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Redeckera	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Rhizophagus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Sacculospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Sclerocystis	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Scutellospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Septoglomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Simiglomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Viscospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531
+Acephala	7	Symbiont	Ectomycorrhizal	Possible	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM/Not ECM)
+Afroboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Alnicola	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Alpova	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Amanita	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Amarrendia	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html
+Amaurodon	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Amphinema	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Amylascus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Anamika	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Andebbia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Arcangeliella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Aroramyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Astraeus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Astrosporina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Aureoboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Auritella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Austroboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Austrogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Austrogautieria	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Austropaxillus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Balsamia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Bankera	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Barssia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Boletellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Boletinus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Boletochaete	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Boletopsis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Boletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Bothia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Boughera	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (NA)
+Brauniellula	7	Symbiont	Ectomycorrhizal	Possible	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Byssocorticium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Cadophora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Calostoma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Cantharellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Castoreum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Catathelasma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Cazia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Cenococcum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Ceratobasidium	7	Symbiont	Ectomycorrhizal	Possible	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Chalciporus	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Chamonixia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Chloridium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Chlorogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Choiromyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Chondrogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Chromelosporium	7	Symbiont	Ectomycorrhizal	Possible	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Chroogomphus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Clavariadelphus	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html
+Clavulina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Corditubera	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Corneroboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Cortinarius	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Craterellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Craterocolla	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Cribbea	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Cuphocybe	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Cystangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Cystogomphus	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Delastria	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Densospora	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM)"
-Dermocybe	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Descolea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Descomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Destuntzia	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
-Destuntzia fusca	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, Smith ME. 2013. Fungal Biology Reviews 27: 83-94"
-Dingleya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Diplocystis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Durianella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Cortinarius	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Craterellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Craterocolla	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Cribbea	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Cuphocybe	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Cystangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Cystogomphus	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Delastria	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Densospora	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM)
+Dermocybe	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Descolea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Descomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Destuntzia	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Destuntzia fusca	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, Smith ME. 2013. Fungal Biology Reviews 27: 83-94
+Dingleya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Diplocystis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Durianella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 ECM	0	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Keyword
 Ectomycorrhiza	0	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Keyword
 Ectomycorrhizae	0	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Keyword
 Ectomycorrhizal	0	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Keyword
-Efibulobasidium	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Elaphomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Endogone	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html"
-Entoloma	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html (ECM/Not ECM)"
-Eremiomyces	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Fevansia	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Fischerula	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Fistulinella	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Efibulobasidium	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Elaphomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Endogone	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html
+Entoloma	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html (ECM/Not ECM)
+Eremiomyces	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Fevansia	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Fischerula	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Fistulinella	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Fuscoboletinus	7	Symbiont	Ectomycorrhizal	Probable	NA	http://mycorrhizas.info/ecmf.html
-Fuscogyroporus	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Galactinia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Gallacea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Gastroboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Gastrolactarius	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Gastroleccinum	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
+Fuscogyroporus	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Galactinia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Gallacea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Gastroboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Gastrolactarius	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Gastroleccinum	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
 Gastrosuillus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Gastrotylopilus	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
-Gautieria	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Genabea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Genea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Geopora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Geopyxis	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Gigasperma	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Gilkeya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Gastrotylopilus	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Gautieria	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Genabea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Genea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Geopora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Geopyxis	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Gigasperma	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Gilkeya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Gliophorus	7	Symbiont	Ectomycorrhizal	Possible	NA	http://mycorrhizas.info/ecmf.html
-Glischroderma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Gloeocantherellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Gomphidius	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Gomphus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Gompogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Gummiglobus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Gummivena	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Gymnogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
-Gymnohydnotrya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Gymnomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Gymnopaxillus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Gyrodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto)"
-Gyromitra	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Gyroporus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Hallingea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Hebeloma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Heimielia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Heimioporus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Glischroderma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Gloeocantherellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Gomphidius	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Gomphus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Gompogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Gummiglobus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Gummivena	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Gymnogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Gymnohydnotrya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Gymnomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Gymnopaxillus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Gyrodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto)
+Gyromitra	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Gyroporus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Hallingea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Hebeloma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Heimielia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Heimioporus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Heliogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-95
-Helvella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
+Helvella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Hemileccinum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Hoehnelogaster	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (NA)"
-Horakiella	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
-Humaria	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Hydnangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Hydnellum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Hydnobolites	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Hydnocystis	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)"
-Hydnoplicata	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Hydnotrya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Hydnotryopsis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Hydnum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Hygrophorus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Hymenogaster	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html (ECM/Not ECM)"
-Hysterangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
+Hoehnelogaster	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (NA)
+Horakiella	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Humaria	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Hydnangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Hydnellum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Hydnobolites	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Hydnocystis	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Hydnoplicata	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Hydnotrya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Hydnotryopsis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Hydnum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Hygrophorus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Hymenogaster	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html (ECM/Not ECM)
+Hysterangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Hysterogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	http://mycorrhizas.info/ecmf.html
-Imaia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Inocybe	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Kalaharituber	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
+Imaia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Inocybe	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Kalaharituber	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
 Kalapuya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Labyrinthomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Laccaria	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Lachnea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Lactarius	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
+Labyrinthomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Laccaria	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Lachnea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Lactarius	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Lactifluus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Leccinellum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Leccinum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Lenzitopsis	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Leptodontidium	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Leucangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Leucogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Leucopaxillus	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Leucophleps	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Loculotuber	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Lyophyllum	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html"
-Maccagnia	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Mackintoshia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Macowanites	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Malajczukia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Marcelleina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Martellia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Leccinellum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Leccinum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Lenzitopsis	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Leptodontidium	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Leucangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Leucogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Leucopaxillus	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Leucophleps	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Loculotuber	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Lyophyllum	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html
+Maccagnia	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Mackintoshia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Macowanites	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Malajczukia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Marcelleina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Martellia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Mattirolomyces	7	Symbiont	Ectomycorrhizal	Possible	NA	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Mayamontana	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Melanogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Melinomyces	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)"
-Membranomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Mesophellia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Muciturbo	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Multifurca	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Mycoamaranthus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Mycoclelandia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Mycolevis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Naucoria	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
-Neocudoniella	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Nothocastoreum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Nothojafnea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Octaviania	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html"
-Otidea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Pachyphloeus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Paradoxa	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Paragyrodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
+Mayamontana	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Melanogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Melinomyces	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Membranomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Mesophellia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Muciturbo	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Multifurca	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Mycoamaranthus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Mycoclelandia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Mycolevis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Naucoria	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Neocudoniella	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Nothocastoreum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Nothojafnea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Octaviania	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html
+Otidea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Pachyphloeus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Paradoxa	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Paragyrodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Parascutellinia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-99
-Paurocotylis	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Paxillogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Paxillus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Peridiospora	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM); http://mycorrhizas.info/ecmf.html (ECM)"
-Peziza	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)"
-Phaeangium	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
+Paurocotylis	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Paxillogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Paxillus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Peridiospora	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM); http://mycorrhizas.info/ecmf.html (ECM)
+Peziza	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Phaeangium	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
 Phaeocollybia	7	Symbiont	Ectomycorrhizal	Possible	NA	http://mycorrhizas.info/ecmf.html
-Phellodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Phialocephala	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Phialophora	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
-Phlebopus	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); http://mycorrhizas.info/ecmf.html (ECM)"
-Phylloporus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Phyloboletellus	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM)"
-Picoa	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Piloderma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Pisolithus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Plicaria	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Podohydnangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Polyporoletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Polyzellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Poryphyrellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Protoglossum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Protubera	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)"
-Pseudoaleuria	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Pseudoboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Pseudohysterangium	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (NA)"
-Pseudotomentella	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html"
-Pseudotulostoma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Psiloboletinus	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
-Pterygellus	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Pulveroboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Pulvinula	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html"
-Quadrispora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Ramaria	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM);Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html (ECM)"
-Rapacea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Reddellomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Retiboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Phellodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Phialocephala	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Phialophora	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Phlebopus	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); http://mycorrhizas.info/ecmf.html (ECM)
+Phylloporus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Phyloboletellus	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM)
+Picoa	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Piloderma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Pisolithus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Plicaria	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Podohydnangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Polyporoletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Polyzellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Poryphyrellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Protoglossum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Protubera	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Pseudoaleuria	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Pseudoboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Pseudohysterangium	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (NA)
+Pseudotomentella	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html
+Pseudotulostoma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Psiloboletinus	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Pterygellus	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Pulveroboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Pulvinula	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html
+Quadrispora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Ramaria	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM);Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html (ECM)
+Rapacea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Reddellomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Retiboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Rhizoctonia	7	Symbiont	Ectomycorrhizal	Possible	Only in special cases with orchids	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Rhizopogon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Rhodactina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Rhodogaster	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM); http://mycorrhizas.info/ecmf.html (ECM)"
-Rhopalogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Richoniella	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM); http://mycorrhizas.info/ecmf.html (ECM)"
-Riessia	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM/Not ECM)"
-Riessiella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Rhizopogon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Rhodactina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Rhodogaster	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM); http://mycorrhizas.info/ecmf.html (ECM)
+Rhopalogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Richoniella	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM); http://mycorrhizas.info/ecmf.html (ECM)
+Riessia	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM/Not ECM)
+Riessiella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Rossbeevera	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-97
-Royoungia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Rozites	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Rubinoboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Ruhlandiella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Russula	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Sarcodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Sarcosphaera	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Scabropezia	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM)"
-Scleroderma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
+Royoungia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Rozites	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Rubinoboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Ruhlandiella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Russula	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Sarcodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Sarcosphaera	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Scabropezia	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM)
+Scleroderma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Sclerogaster	7	Symbiont	Ectomycorrhizal	Possible	NA	http://mycorrhizas.info/ecmf.html (ECM/Not ECM)
-Sclerogone	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Scutiger	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Sebacina	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html"
-Serendipita	7	Symbiont	Ectomycorrhizal	Possible	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)"
-Setchelliogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Setogyroporus	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Sinoboletus	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Sowerbyella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Sphaerosoma	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Sphaerosporella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Sphaerozone	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
+Sclerogone	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Scutiger	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Sebacina	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html
+Serendipita	7	Symbiont	Ectomycorrhizal	Possible	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Setchelliogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Setogyroporus	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Sinoboletus	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Sowerbyella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Sphaerosoma	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Sphaerosporella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Sphaerozone	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Spongiforma	7	Symbiont	Ectomycorrhizal	Probable	NA	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Stephanopus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Stephanospora	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM); http://mycorrhizas.info/ecmf.html (ECM)"
-Stephensia	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
+Stephanopus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Stephanospora	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM); http://mycorrhizas.info/ecmf.html (ECM)
+Stephensia	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
 Stouffera	7	Symbiont	Ectomycorrhizal	Possible	NA	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Strobilomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Suillus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Tarzetta	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Strobilomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Suillus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Tarzetta	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Temperantia	7	Symbiont	Ectomycorrhizal	Possible	NA	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Terfezia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html"
-Thaxterogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Thelephora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Timgrovea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Tirmania	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Tomentella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Tomentellopsis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Torrendia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Tremellodendron	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Tremellogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Tremelloscypha	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Terfezia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html
+Thaxterogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Thelephora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Timgrovea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Tirmania	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Tomentella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Tomentellopsis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Torrendia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Tremellodendron	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Tremellogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Tremelloscypha	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Tretomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-93
-Tricharina	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html (ECM)"
-Tricholoma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Trichophaea	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Truncocolumella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
+Tricharina	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html (ECM)
+Tricholoma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Trichophaea	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Truncocolumella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Tubariomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-92
-Tuber	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Tubosaeta	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-96"
-Tulasnella	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)"
-Turbinellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Tuber	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Tubosaeta	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-96
+Tulasnella	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Turbinellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Turmalinea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-98
 Turmania	7	Symbiont	Ectomycorrhizal	Possible	NA	http://mycorrhizas.info/ecmf.html
-Tylopilus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Tylospora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Ulurua	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Underwoodia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Tylopilus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Tylospora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Ulurua	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Underwoodia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Velligaster	7	Symbiont	Ectomycorrhizal	Possible	NA	http://mycorrhizas.info/ecmf.html
-Veloporphyrellus	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
-Wilcoxina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Wynnella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Xanthoconium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
+Veloporphyrellus	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
+Wilcoxina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Wynnella	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Xanthoconium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Xerocomellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	List compiled by Sara Branco with input from Nhu Nguyen and Else Vellinga
-Xerocomus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Youngiomyces	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
-Zelleromyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Blastomyces dermatitidis	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing blastomycosis	"Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904"
-Candida	7	Pathogen|Symbiont	Human Pathogen	Possible	"Yeast; many Candida species are opportunistic pathogens, while others are harmless commensals or endosymbionts"	"Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904; Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Coccidioides immitis	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing coccidioidomycosis	"Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904"
-Coccidioides posadasii	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing coccidioidomycosis	"Fisher MC, Koenig GL, White TJ, Taylor JW. 2002. Mycologia. 94: 73-84"
-Histoplasma capsulatum	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing	"Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904"
-Pneumocystis carinii	8	Pathogen	Human Pathogen	Highly_Probable	Opportunistic pathogens	"Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904"
-Trichophyton rubrum	8	Pathogen	Human Pathogen	Highly_Probable	Skin Pathogen	"Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904"
+Xerocomus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Youngiomyces	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Zelleromyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Blastomyces dermatitidis	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing blastomycosis	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904
+Candida	7	Pathogen|Symbiont	Human Pathogen	Possible	Yeast; many Candida species are opportunistic pathogens, while others are harmless commensals or endosymbionts	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904; Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Coccidioides immitis	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing coccidioidomycosis	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904
+Coccidioides posadasii	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing coccidioidomycosis	Fisher MC, Koenig GL, White TJ, Taylor JW. 2002. Mycologia. 94: 73-84
+Histoplasma capsulatum	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904
+Pneumocystis carinii	8	Pathogen	Human Pathogen	Highly_Probable	Opportunistic pathogens	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904
+Trichophyton rubrum	8	Pathogen	Human Pathogen	Highly_Probable	Skin Pathogen	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904
 Absconditella	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Acanthothecis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Acarospora	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
