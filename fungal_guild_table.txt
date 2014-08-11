@@ -2599,7 +2599,7 @@ Macrophomina phaseoli	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.or
 Macrophomina phaseolina	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Macrosporium cocos	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Magnaporthe grisea	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
-Magnaporthe oryzae	8	Pathogen	Plant Pathogen	Possible	NA	"Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194"
+Magnaporthe oryzae	8	Pathogen	Plant Pathogen	Possible	NA	Matthew C. Fisher MC, Henk DA, Briggs CJ, Brownstein JS, Madoff LC, McCraw SL, Gurr SJ. 2012. Nature 484: 186_194
 Magnaporthe poae	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Magnaporthe salvinii	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Mamianiella coryli	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
@@ -3789,42 +3789,42 @@ Zygophiala jamaicensis	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.o
 Zygosaccharomyces bailii	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Zygosaccharomyces florentinus	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Zythia fragariae	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
-Abortiporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Amylocystis	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Amylosporus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Anomoporia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Antrodia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Antrodiella	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Aporpium	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Aurificaria	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Auriporia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Bjerkandera	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Bondarzewia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Ceriporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Ceriporiopsis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Cerrena	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Chaetoporellus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Climacocystis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Climacodon	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL, Bigelow DM. 1998. Journal of the Arizona-Nevada Academy of Science 31: 13-36"
-Coriolopsis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Cryptoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Cyclomyces	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Daedalea	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Daedaleopsis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Datronia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Diacanthodes	7	Saprotroph	Wood Rot	Highly_Probable	NA	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Dichomitus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Diplomitoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Donkioporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Earliella	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Echinodontium	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Echinoporia	7	Saprotroph	Wood Rot	Highly_Probable	NA	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Fistulina	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Fomes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Fomitella	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Fomitopsis	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Fuscocerrena	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Ganoderma	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
+Abortiporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Amylocystis	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Amylosporus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Anomoporia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Antrodia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Antrodiella	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Aporpium	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Aurificaria	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Auriporia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Bjerkandera	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Bondarzewia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Ceriporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Ceriporiopsis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Cerrena	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Chaetoporellus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Climacocystis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Climacodon	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL, Bigelow DM. 1998. Journal of the Arizona-Nevada Academy of Science 31: 13-36
+Coriolopsis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Cryptoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Cyclomyces	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Daedalea	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Daedaleopsis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Datronia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Diacanthodes	7	Saprotroph	Wood Rot	Highly_Probable	NA	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Dichomitus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Diplomitoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Donkioporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Earliella	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Echinodontium	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Echinoporia	7	Saprotroph	Wood Rot	Highly_Probable	NA	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Fistulina	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Fomes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Fomitella	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Fomitopsis	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Fuscocerrena	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Ganoderma	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
 Globifomes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
 Gloeophyllum	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
 Gloeoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
