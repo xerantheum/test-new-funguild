@@ -3825,395 +3825,395 @@ Fomitella	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarde
 Fomitopsis	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
 Fuscocerrena	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
 Ganoderma	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
-Globifomes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Gloeophyllum	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Gloeoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Grifola	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Hapalopilus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Haploporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Heterobasidion	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Hexagonia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Hydnochaete	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Hydnopolyporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Inonotus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Irpex	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Ischnoderma	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Jahnoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Junghuhnia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Laetiporus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Lenzites	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Leptoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Megasporoporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Melanoporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Meripilus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Meruliporia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Microporellus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Navisporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Nigrofomes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Nigroporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Oligoporus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Oxyporus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Pachykytospora	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Parmastomyces	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Perenniporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Phaeolus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Phanerochaete	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Glenn JK, Morgan MA, Mayfield MB, KuwaharaÊ M, Gold MH. 1983. Biochemical and Biophysical Research Communications 114: 1077-1083"
-Phlebia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Kirk PM, Cannon PF, Minter DW, Stalpers JA. 2008. Dictionary of the Fungi (10th ed.) Wallingford, CABI"
-Phellinus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Phylloporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Physisporinus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Piptoporus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Polyporellus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Polyporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Porodiscus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Postia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Jordan CR, Dashek WV, Highley TL. 1996. Holzforschung - International Journal of the Biology, Chemistry, Physics and Technology of Wood 50: 312-318"
-Pseudofavolus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Pycnoporellus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Pycnoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Pyrofomes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Rigidoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Schizophyllum	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Ahmada SS, Miles PG. 1970. Genetical Research 15: 19-28"
-Schizophyllum commune	8	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Ujor VC, Monti M, Peiris DG, Clements MO, Hedger JN. 2012. Fungal Biology 116: 332-341"
-Schizophyllum paradoxa	8	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Ujor VC, Monti M, Peiris DG, Clements MO, Hedger JN. 2012. Fungal Biology 116: 332-341"
-Schizopora	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Skeletocutis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Spongipellis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Tinctoporellus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Trametes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Trichaptum	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Tyromyces	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Wolfiporia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Wrightoporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo"
-Albatrellus	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	NA	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Byssoporia	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	NA	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo ;Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Coltricia	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	NA	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Coltriciella	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	NA	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
-Lindtneria	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Sistotrema	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	White Rot	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html (ECM/Not ECM)"
-Trechispora	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	White Rot|Likely not ectomycorrhizal	"Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (Uncertain); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
-Acaromyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Achroomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Aciculoconidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Acrosporium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Actonia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Aessosporon	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Agaricostilbum	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Ambrosiozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Amphierna	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Anthomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Apiotrichum	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Arthroascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Arxiozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Arxula	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Ascobotryozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Ascocybe	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Ascoidea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Ascomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Ascotrichosporon	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Ashbia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Ashbya	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Asporomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Atelosaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Aureomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Auriculibuller	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Azymocandida	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Azymohansenula	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Azymomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Azymoprocandida	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Babjevia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Babjeviella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Ballistosporomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Bannoa	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Barnettozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Basidiotrichosporon	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Bensingtonia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Blastobotrys	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Blastodendrion	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Blastoderma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Blastomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Blastoschizomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Botryoascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Botryozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Botrytis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Brettanomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Bullera	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Bulleribasidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Bulleromyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Castellania	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cephaloascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Chionosphaera	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Chlamydatomus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Chlamydozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Chromotorula	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-circumpolaris	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Citeromyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cladosporium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Clavispora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Coccidiascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Colacogloea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Crebrothecium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Crocicreas	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cryptococcus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cryptotrichosporon	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cuniculitrema	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Curvibasidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cyberlindnera	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cylindrium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cyniclomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cyrenella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cystobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Cystofilobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Dacrymyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Debaryomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Debaryozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Dekkera	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Dekkeromyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Dematium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Derxomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Dioszegia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Dipodascopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Dipodascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Eeniella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Enantiothamnus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Endoblastoderma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Endoblastomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Endomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Endomycopsella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Endomycopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Endyllium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Entelexis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Eremothecium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Erineum	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Erythrobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Eutorula	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Eutorulopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Exoascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Fabospora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Farysizyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Fellomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Fermentotrichon	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Fibulobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Fibulostilbum	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Filobasidiella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Filobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Fissuricella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Galactomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Geotrichoides	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Geotrichum	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Guehomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Guilliermondella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Guilliermondia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Hannaella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Hanseniaspora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Hansenula	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Hasegawaea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Helicobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Helicogonium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Hemispora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Holleya	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Holtermannia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Holtermanniella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Hormoascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Hyalococcus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Hyalodendron	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Hyphopichia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Isomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Issatchenkia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Itersonilia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Jaminaea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Jola	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kawasakia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kazachstania	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kloeckera	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kloeckeraspora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kluyveromyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kockovaella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kodamaea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Komagataea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Komagataella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kondoa	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kregervanrija	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kriegeria	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kuraishia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kurtzmaniella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kurtzmanomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Kwoniella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Lachancea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Lalaria	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Leucosporidiella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Leucosporidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Lindnera	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Lipomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Lodderomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Macrorhabdus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Magnusiella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Magnusiomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Malassezia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mastigobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mastigomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Meira	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Metschnikowia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Metschnikowiella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Meyerozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Microanthomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Micrococcus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Microsporon	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Microsporum	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Millerozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mingxiaea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mixia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Monilia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Moniliella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Monospora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Monosporella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mrakia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mrakiella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Myceloblastanon	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mycelorrhizodes	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mycocandida	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mycoderma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mycogloea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mycokluyveria	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mycotorula	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Mycotoruloides	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Myriogonium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Myxozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Nadsonia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Naganishia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Nakaseomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Nakazawaea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Naohidea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Naumovia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Naumovozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Nectaromyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Nematospora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Occultifur	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Octosporomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Ogataea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Oidiomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Oidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Onychomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Oospora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Oosporidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Oosporoidea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pachysolen	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pachytichospora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Papiliotrema	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Parasaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Paratorulopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Parendomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Petasospora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Peterozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Phaffia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Phaffomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Phialoascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Phytoceratiomyxa	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pichia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pityrosporum	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Platygloea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pleurococcus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pneumocystis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Priceomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Procandida	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Prosaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Prosporobolomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Protendomycopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Proteomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Protomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Prototheca	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pseudohansenula	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-pseudolondinensis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pseudomonilia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pseudomycoderma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pseudosaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Pseudozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Reniforma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Rhodomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Rhodosporidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Rhodotorula	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Saccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Saccharomycodes	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Saccharomycopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sachsia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sachsiella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Saenkia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Saitoella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sakaguchia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Saprochaete	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sarcinomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sarcinosporon	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Saturnispora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Scheffersomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Schizoblastosporion	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Schizosaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Schwanniomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Selenotila	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Selenozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sirobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Smithiozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Spathaspora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Spermophthora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sporidiobolus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sporobolomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sporopachydermia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sporothrix	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sporotrichum	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Starmera	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Starmerella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Stephanoascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sterigmatomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sterigmatosporidium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sugiyamaella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sympodiomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Sympodiomycopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Syringospora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Taphria	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Taphrina	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Tausonia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Tetrapisispora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Tilletiaria	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Tilletiopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Torula	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Torulaspora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Torulopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Trichomonascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Trichosporiella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Trichosporon	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Trichosporonoides	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Trigonopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Trimorphomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Tsuchiyaea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Udeniomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Vanderwaltia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Vanderwaltozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Vanrijia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Waltiozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Waltomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Wickerhamia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Wickerhamiella	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Wickerhamomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Willia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Williopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Wingea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Xanthophyllomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Yamadazyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Yarrowia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zendera	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zooglea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygoascus	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygofabospora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygohansenula	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygolipomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygonema	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygopichia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygorenospora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygosaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygosaccharomycodes	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygotorulaspora	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygowillia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygowilliopsis	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zygozyma	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zymodebaryomyces	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zymonema	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zymopichia	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
-Zymoxenogloea	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
+Globifomes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Gloeophyllum	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Gloeoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Grifola	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Hapalopilus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Haploporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Heterobasidion	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Hexagonia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Hydnochaete	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Hydnopolyporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Inonotus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Irpex	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Ischnoderma	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Jahnoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Junghuhnia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Laetiporus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Lenzites	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Leptoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Megasporoporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Melanoporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Meripilus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Meruliporia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Microporellus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Navisporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Nigrofomes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Nigroporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Oligoporus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Oxyporus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Pachykytospora	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Parmastomyces	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Perenniporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Phaeolus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Phanerochaete	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Glenn JK, Morgan MA, Mayfield MB, KuwaharaÊ M, Gold MH. 1983. Biochemical and Biophysical Research Communications 114: 1077-1083
+Phlebia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Kirk PM, Cannon PF, Minter DW, Stalpers JA. 2008. Dictionary of the Fungi (10th ed.) Wallingford, CABI
+Phellinus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Phylloporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Physisporinus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Piptoporus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Polyporellus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Polyporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Porodiscus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Postia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Jordan CR, Dashek WV, Highley TL. 1996. Holzforschung - International Journal of the Biology, Chemistry, Physics and Technology of Wood 50: 312-318
+Pseudofavolus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Pycnoporellus	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Pycnoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Pyrofomes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Rigidoporus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Schizophyllum	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Ahmada SS, Miles PG. 1970. Genetical Research 15: 19-28
+Schizophyllum commune	8	Saprotroph	Wood Rot	Highly_Probable	White Rot	Ujor VC, Monti M, Peiris DG, Clements MO, Hedger JN. 2012. Fungal Biology 116: 332-341
+Schizophyllum paradoxa	8	Saprotroph	Wood Rot	Highly_Probable	White Rot	Ujor VC, Monti M, Peiris DG, Clements MO, Hedger JN. 2012. Fungal Biology 116: 332-341
+Schizopora	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Skeletocutis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Spongipellis	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Tinctoporellus	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Trametes	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Trichaptum	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Tyromyces	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Wolfiporia	7	Saprotroph	Wood Rot	Highly_Probable	Brown Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Wrightoporia	7	Saprotroph	Wood Rot	Highly_Probable	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo
+Albatrellus	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	NA	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Byssoporia	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	NA	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo ;Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Coltricia	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	NA	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Coltriciella	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	NA	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Lindtneria	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Sistotrema	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	White Rot	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html (ECM/Not ECM)
+Trechispora	7	Saprotroph|Symbiont	Wood Rot|Ectomycorrhizal	Conflicting_Reports	White Rot|Likely not ectomycorrhizal	Gilbertson RL; Ryvarden L. 1987-1987. North American Polypores. Fungiflora, Oslo; Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (Uncertain); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Acaromyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Achroomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Aciculoconidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
+Acrosporium	7	Saprotroph	Yeast	Highly_Probable	NA	"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Actonia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Aessosporon	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Agaricostilbum	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Ambrosiozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Amphierna	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Anthomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Apiotrichum	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Arthroascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Arxiozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Arxula	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Ascobotryozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Ascocybe	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Ascoidea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Ascomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Ascotrichosporon	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Ashbia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Ashbya	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Asporomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Atelosaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Aureomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Auriculibuller	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Azymocandida	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Azymohansenula	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Azymomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Azymoprocandida	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Babjevia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Babjeviella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Ballistosporomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Bannoa	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Barnettozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Basidiotrichosporon	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Bensingtonia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Blastobotrys	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Blastodendrion	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Blastoderma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Blastomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Blastoschizomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Botryoascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Botryozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Botrytis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Brettanomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Bullera	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Bulleribasidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Bulleromyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Castellania	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cephaloascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Chionosphaera	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Chlamydatomus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Chlamydozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Chromotorula	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+circumpolaris	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Citeromyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cladosporium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Clavispora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Coccidiascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Colacogloea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Crebrothecium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Crocicreas	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cryptococcus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cryptotrichosporon	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cuniculitrema	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Curvibasidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cyberlindnera	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cylindrium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cyniclomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cyrenella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cystobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Cystofilobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Dacrymyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Debaryomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Debaryozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Dekkera	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Dekkeromyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Dematium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Derxomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Dioszegia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Dipodascopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Dipodascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Eeniella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Enantiothamnus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Endoblastoderma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Endoblastomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Endomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Endomycopsella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Endomycopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Endyllium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Entelexis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Eremothecium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Erineum	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Erythrobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Eutorula	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Eutorulopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Exoascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Fabospora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Farysizyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Fellomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Fermentotrichon	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Fibulobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Fibulostilbum	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Filobasidiella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Filobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Fissuricella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Galactomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Geotrichoides	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Geotrichum	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Guehomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Guilliermondella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Guilliermondia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Hannaella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Hanseniaspora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Hansenula	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Hasegawaea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Helicobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Helicogonium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Hemispora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Holleya	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Holtermannia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Holtermanniella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Hormoascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Hyalococcus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Hyalodendron	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Hyphopichia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Isomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Issatchenkia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Itersonilia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Jaminaea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Jola	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kawasakia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kazachstania	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kloeckera	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kloeckeraspora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kluyveromyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kockovaella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kodamaea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Komagataea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Komagataella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kondoa	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kregervanrija	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kriegeria	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kuraishia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kurtzmaniella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kurtzmanomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Kwoniella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Lachancea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Lalaria	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Leucosporidiella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Leucosporidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Lindnera	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Lipomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Lodderomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Macrorhabdus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Magnusiella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Magnusiomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Malassezia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mastigobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mastigomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Meira	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Metschnikowia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Metschnikowiella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Meyerozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Microanthomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Micrococcus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Microsporon	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Microsporum	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Millerozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mingxiaea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mixia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Monilia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Moniliella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Monospora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Monosporella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mrakia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mrakiella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Myceloblastanon	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mycelorrhizodes	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mycocandida	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mycoderma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mycogloea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mycokluyveria	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mycotorula	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Mycotoruloides	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Myriogonium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Myxozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Nadsonia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Naganishia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Nakaseomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Nakazawaea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Naohidea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Naumovia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Naumovozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Nectaromyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Nematospora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Occultifur	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Octosporomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Ogataea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Oidiomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Oidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Onychomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Oospora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Oosporidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Oosporoidea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pachysolen	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pachytichospora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Papiliotrema	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Parasaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Paratorulopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Parendomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Petasospora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Peterozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Phaffia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Phaffomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Phialoascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Phytoceratiomyxa	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pichia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pityrosporum	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Platygloea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pleurococcus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pneumocystis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Priceomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Procandida	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Prosaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Prosporobolomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Protendomycopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Proteomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Protomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Prototheca	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pseudohansenula	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+pseudolondinensis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pseudomonilia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pseudomycoderma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pseudosaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Pseudozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Reniforma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Rhodomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Rhodosporidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Rhodotorula	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Saccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Saccharomycodes	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Saccharomycopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sachsia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sachsiella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Saenkia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Saitoella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sakaguchia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Saprochaete	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sarcinomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sarcinosporon	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Saturnispora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Scheffersomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Schizoblastosporion	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Schizosaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Schwanniomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Selenotila	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Selenozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sirobasidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Smithiozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Spathaspora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Spermophthora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sporidiobolus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sporobolomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sporopachydermia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sporothrix	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sporotrichum	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Starmera	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Starmerella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Stephanoascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sterigmatomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sterigmatosporidium	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sugiyamaella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sympodiomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Sympodiomycopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Syringospora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Taphria	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Taphrina	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Tausonia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Tetrapisispora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Tilletiaria	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Tilletiopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Torula	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Torulaspora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Torulopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Trichomonascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Trichosporiella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Trichosporon	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Trichosporonoides	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Trigonopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Trimorphomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Tsuchiyaea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Udeniomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Vanderwaltia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Vanderwaltozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Vanrijia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Waltiozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Waltomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Wickerhamia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Wickerhamiella	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Wickerhamomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Willia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Williopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Wingea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Xanthophyllomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Yamadazyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Yarrowia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zendera	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zooglea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygoascus	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygofabospora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygohansenula	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygolipomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygonema	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygopichia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygorenospora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygosaccharomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygosaccharomycodes	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygotorulaspora	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygowillia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygowilliopsis	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zygozyma	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zymodebaryomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zymonema	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zymopichia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Zymoxenogloea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
