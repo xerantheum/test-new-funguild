@@ -355,7 +355,7 @@ Trichophyton rubrum	8	Pathogen	Human Pathogen	Highly_Probable	Skin Pathogen	Bowm
 Absconditella	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Acanthothecis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Acarospora	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Acolium	7	Symbiont	Lichen	Highly_Probable	NA	"Kirk PM, Cannon PF, Minter DW, Stalpers JA. 2008. Dictionary of the Fungi (10th ed.) Wallingford, CABI"
+Acolium	7	Symbiont	Lichen	Highly_Probable	NA	Kirk PM, Cannon PF, Minter DW, Stalpers JA. 2008. Dictionary of the Fungi (10th ed.) Wallingford, CABI
 Acrocordia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Acroscyphus	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Actinogyra	7	Symbiont	Lichen	Highly_Probable	Syn. Umbilicaria	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -572,14 +572,14 @@ Enchylium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota 
 Endocarpon	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Endocena	7	Symbiont	Lichen	Highly_Probable	NA	Cromb 1876. Botanical Journal of the Linnean Society 15: 226
 Endohyalina	7	Symbiont	Lichen	Possible	Lichenized and non-licenized taxa	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Endopyrenium	7	Symbiont	Lichen	Highly_Probable	"Syn. Catapyrenium, Placidium, and Verrucaria"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Endopyrenium	7	Symbiont	Lichen	Highly_Probable	Syn. Catapyrenium, Placidium, and Verrucaria	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Enterographa	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Enterostigma	7	Symbiont	Lichen	Highly_Probable	Syn. Cryptothecia	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Entosthelia	7	Symbiont	Lichen	Highly_Probable	Syn. Dermatocarpon	Zahlbruckner 1931-1932. Catalogus lichenum universalis 8: 67
 Eopyrenula	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Ephebe	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Ephebeia	7	Symbiont	Lichen	Highly_Probable	Syn. Ephebe	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Ephelidium	7	Symbiont	Lichen	Highly_Probable	NA	"Dodge CW, Rudolph ED. 1955. Annals of the Missouri Botanical Garden 42: 136"
+Ephelidium	7	Symbiont	Lichen	Highly_Probable	NA	Dodge CW, Rudolph ED. 1955. Annals of the Missouri Botanical Garden 42: 136
 Epigloea	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Epilichen	7	Symbiont	Lichen	Possible	Lichenicolous	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Erioderma	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -609,8 +609,8 @@ Fuscopannaria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dak
 Gasparrinia	7	Symbiont	Lichen	Highly_Probable	Syn. Caloplaca	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Gassicurtia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Geisleria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Geosiphon	7	Symbiont	Lichen	Highly_Probable	"Non-arbuscular mycorrhizal in Glomeromycota, Nostoc endosymbiont"	"Kluge M, Mollenhauer D, Mollenhauer R. 1991. Planta 185: 311_315"
-Glaucinaria	7	Symbiont	Lichen	Highly_Probable	NA	"Nash III TH, III, Ryan BD, Diederich P, Gries C, Bungartz F. 2004. Lichen flora of the greater Sonoran Desert region, Vol. 2. Lichens Unlimited, Tempe, Arizona"
+Geosiphon	7	Symbiont	Lichen	Highly_Probable	Non-arbuscular mycorrhizal in Glomeromycota, Nostoc endosymbiont	Kluge M, Mollenhauer D, Mollenhauer R. 1991. Planta 185: 311_315
+Glaucinaria	7	Symbiont	Lichen	Highly_Probable	NA	Nash III TH, III, Ryan BD, Diederich P, Gries C, Bungartz F. 2004. Lichen flora of the greater Sonoran Desert region, Vol. 2. Lichens Unlimited, Tempe, Arizona
 Glaucomaria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Glaucotrema	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Gloeoheppia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -691,7 +691,7 @@ Lathagrium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota
 Laurera	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Lecanactis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Lecania	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Lecanidium	7	Symbiont	Lichen	Highly_Probable	NA	"Nash III TH, III, Ryan BD, Gries C, Bungartz F. 2001. Lichen flora of the greater Sonoran Desert region, Vol. 1. Lichens Unlimited, Tempe, Arizona"
+Lecanidium	7	Symbiont	Lichen	Highly_Probable	NA	Nash III TH, III, Ryan BD, Gries C, Bungartz F. 2001. Lichen flora of the greater Sonoran Desert region, Vol. 1. Lichens Unlimited, Tempe, Arizona
 Lecanographa	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Lecanora	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Lecanoropsis	7	Symbiont	Lichen	Highly_Probable	Syn. Lecanora	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -700,7 +700,7 @@ Lecidella	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota 
 Lecidoma	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Leciographa	7	Symbiont	Lichen	Highly_Probable	Syn. Opegrapha some lichenicolous	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Leciophysma	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Leifidium	7	Symbiont	Lichen	Highly_Probable	NA	"Kirk PM, Cannon PF, Minter DW, Stalpers JA. 2008. Dictionary of the Fungi (10th ed.) Wallingford, CABI"
+Leifidium	7	Symbiont	Lichen	Highly_Probable	NA	Kirk PM, Cannon PF, Minter DW, Stalpers JA. 2008. Dictionary of the Fungi (10th ed.) Wallingford, CABI
 Leightoniomyces	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Leimonis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Leioderma	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -735,7 +735,7 @@ Lithographa	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakot
 Lithothelium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Llimonaea	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Lobaria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Lobariella	7	Symbiont	Lichen	Highly_Probable	NA	"Nash III TH, III, Ryan BD, Gries C, Bungartz F. 2001. Lichen flora of the greater Sonoran Desert region, Vol. 1. Lichens Unlimited, Tempe, Arizona"
+Lobariella	7	Symbiont	Lichen	Highly_Probable	NA	Nash III TH, III, Ryan BD, Gries C, Bungartz F. 2001. Lichen flora of the greater Sonoran Desert region, Vol. 1. Lichens Unlimited, Tempe, Arizona
 Lobothallia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Lopadiopsis	7	Symbiont	Lichen	Highly_Probable	Syn. Asterothyrium	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Lopadium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -755,7 +755,7 @@ Medusulina	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota
 Megalaria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Megalospora	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Megaspora	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Melampylidium	7	Symbiont	Lichen	Highly_Probable	NA	"Nash III TH, III, Ryan BD, Diederich P, Gries C, Bungartz F. 2004. Lichen flora of the greater Sonoran Desert region, Vol. 2. Lichens Unlimited, Tempe, Arizona"
+Melampylidium	7	Symbiont	Lichen	Highly_Probable	NA	Nash III TH, III, Ryan BD, Diederich P, Gries C, Bungartz F. 2004. Lichen flora of the greater Sonoran Desert region, Vol. 2. Lichens Unlimited, Tempe, Arizona
 Melanaria	7	Symbiont	Lichen	Highly_Probable	Syn. Pertusaria	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Melanelia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Melanelixia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -774,7 +774,7 @@ Micareopis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota
 Microglaena	7	Symbiont	Lichen	Highly_Probable	Syn.Protothelenella and Thelenella	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Microlychnus	7	Symbiont	Lichen	Highly_Probable	Syn. Gyalideopsis	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Microphiale	7	Symbiont	Lichen	Highly_Probable	Syn. Coenogonium	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Microthelia	7	Symbiont	Lichen	Highly_Probable	"Syn. Granulopyrenis, Kirschsteiniothelia, Lichenothelia,Melanomma, and Mycomicrothelia"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Microthelia	7	Symbiont	Lichen	Highly_Probable	Syn. Granulopyrenis, Kirschsteiniothelia, Lichenothelia,Melanomma, and Mycomicrothelia	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Miltidea	7	Symbiont	Lichen	Highly_Probable	NA	Stirton J. 1897. Transactions of the New Zealand Institute. 30: 382-393
 Miriquidica	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Mobergia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -783,7 +783,7 @@ Monoblastia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakot
 Monoblastiopsis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Montanelia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Mosigia	7	Symbiont	Lichen	Highly_Probable	Syn. Rimularia	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Muhria	7	Symbiont	Lichen	Highly_Probable	NA	"Jorgensen PM, Jahns HM. 1987. Notes from the Royal Botanical Garden Edinburgh. 44: 581-599"
+Muhria	7	Symbiont	Lichen	Highly_Probable	NA	Jorgensen PM, Jahns HM. 1987. Notes from the Royal Botanical Garden Edinburgh. 44: 581-599
 Multiclavula	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Mycobilimbia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Mycoblastus	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -832,8 +832,8 @@ Pachyospora	7	Symbiont	Lichen	Highly_Probable	Syn. Megaspora	Esslinger TL. 2014.
 Pachyphiale	7	Symbiont	Lichen	Highly_Probable	Syn. Gyalecta	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pachyphysis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pannaria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Pannoparmelia	7	Symbiont	Lichen	Highly_Probable	NA	"Galloway DJ, Sammy N. 1994. Flora of Australia Volume 55"
-Paralecanographa	7	Symbiont	Lichen	Highly_Probable	NA	"Nash III TH, III, Ryan BD, Diederich P, Gries C, Bungartz F. 2004. Lichen flora of the greater Sonoran Desert region, Vol. 2. Lichens Unlimited, Tempe, Arizona"
+Pannoparmelia	7	Symbiont	Lichen	Highly_Probable	NA	Galloway DJ, Sammy N. 1994. Flora of Australia Volume 55
+Paralecanographa	7	Symbiont	Lichen	Highly_Probable	NA	Nash III TH, III, Ryan BD, Diederich P, Gries C, Bungartz F. 2004. Lichen flora of the greater Sonoran Desert region, Vol. 2. Lichens Unlimited, Tempe, Arizona
 Paraparmelia	7	Symbiont	Lichen	Highly_Probable	Syn. Canoparmelia	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Paraporpidia	7	Symbiont	Lichen	Highly_Probable	NA	Outline of Ascomycota (http://www.fieldmuseum.org/myconet)
 Paraschismatomma	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -859,13 +859,13 @@ Peridiothelia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dak
 Pertusaria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Petractis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phaeocalicium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Phaeographina	7	Symbiont	Lichen	Highly_Probable	"Syn. Fissurina, Leiorreuma, Phaeographis, Platygramme"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Phaeographina	7	Symbiont	Lichen	Highly_Probable	Syn. Fissurina, Leiorreuma, Phaeographis, Platygramme	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phaeographis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Phaeographopsis	7	Symbiont	Lichen	Highly_Probable	NA	"Aptroot A, Diederich P, S_rusiaux E, Sipman HJM. 1997. Bibliotheca Lichenologica. 64: 1-220"
+Phaeographopsis	7	Symbiont	Lichen	Highly_Probable	NA	Aptroot A, Diederich P, S_rusiaux E, Sipman HJM. 1997. Bibliotheca Lichenologica. 64: 1-220
 Phaeophyscia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phaeorrhiza	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Phaeotrema	7	Symbiont	Lichen	Highly_Probable	"Syn. Melanotrema, Thelotrema"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Pharcidia	7	Symbiont	Lichen	Highly_Probable	"Syn. Stigmidium, Zwackhiomyces"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Phaeotrema	7	Symbiont	Lichen	Highly_Probable	Syn. Melanotrema, Thelotrema	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Pharcidia	7	Symbiont	Lichen	Highly_Probable	Syn. Stigmidium, Zwackhiomyces	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phloeopeccania	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phlyctella	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phlyctidia	7	Symbiont	Lichen	Highly_Probable	Syn. Phlyctis	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -888,7 +888,7 @@ Pilophorus	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota
 Placidiopsis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Placidium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Placocarpus	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Placodium	7	Symbiont	Lichen	Highly_Probable	"Syn. Caloplaca, Gyalolechia, Pachypeltis, Polycauliona, Rusavskia, Squamulea, Xanthomendoza"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Placodium	7	Symbiont	Lichen	Highly_Probable	Syn. Caloplaca, Gyalolechia, Pachypeltis, Polycauliona, Rusavskia, Squamulea, Xanthomendoza	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Placolecania	7	Symbiont	Lichen	Highly_Probable	NA	Zahlbruckner A. 1906. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften Math.-naturw. Klasse Abt. I. 115: 502-523
 Placomaronea	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Placoparmelia	7	Symbiont	Lichen	Highly_Probable	NA	Henssen A. 1992. The Lichenologist. 24: 133-142
@@ -899,7 +899,7 @@ Placynthium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakot
 Plagiocarpa	7	Symbiont	Lichen	Highly_Probable	Syn. Lithothelium	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Platismatia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Platygramme	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Platygrapha	7	Symbiont	Lichen	Highly_Probable	"Syn. Lecanactis, Lecanographa, Mazosia, Opegrapha, Paraschismatomma, Sigridea"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Platygrapha	7	Symbiont	Lichen	Highly_Probable	Syn. Lecanactis, Lecanographa, Mazosia, Opegrapha, Paraschismatomma, Sigridea	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Platygraphopsis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Platythecium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pleopsidium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -926,7 +926,7 @@ Protoparmelia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dak
 Protoparmeliopsis	7	Symbiont	Lichen	Highly_Probable	Syn. Lecanora	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Protothelenella	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Protounguicularia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Protousnea	7	Symbiont	Lichen	Highly_Probable	NA	"Calvelo S, Stocker-Worgotter E, Libertore S, Elix JA. 2005. The Bryologist 108: 1-15"
+Protousnea	7	Symbiont	Lichen	Highly_Probable	NA	Calvelo S, Stocker-Worgotter E, Libertore S, Elix JA. 2005. The Bryologist 108: 1-15
 Pseudephebe	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pseudevernia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pseudocyphellaria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -949,12 +949,12 @@ Punctelia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota 
 Puttea	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pycnora	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pycnothelia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Pycnotrema	7	Symbiont	Lichen	Highly_Probable	NA	"Rivas Plata ER, Lucking R, Lumbsch HT. 2012. Fungal Diversity 52: 107-121"
+Pycnotrema	7	Symbiont	Lichen	Highly_Probable	NA	Rivas Plata ER, Lucking R, Lumbsch HT. 2012. Fungal Diversity 52: 107-121
 Pyrenastrum	7	Symbiont	Lichen	Highly_Probable	Syn. Pyrenula	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pyrenocarpon	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pyrenocollema	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pyrenodesmia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Pyrenopsidium	7	Symbiont	Lichen	Highly_Probable	"Syn. Cryptothele, Pyrenopsis "	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Pyrenopsidium	7	Symbiont	Lichen	Highly_Probable	Syn. Cryptothele, Pyrenopsis	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pyrenopsis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pyrenothamnia	7	Symbiont	Lichen	Highly_Probable	Syn. Endocarpon	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pyrenothrix	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -968,7 +968,7 @@ Ramboldia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota 
 Ramonia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Rechingeria	7	Symbiont	Lichen	Highly_Probable	Syn. Lichinella	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Reimnitzia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Reinkella	7	Symbiont	Lichen	Highly_Probable	"Syn. Hubbsia, Schizopelte"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Reinkella	7	Symbiont	Lichen	Highly_Probable	Syn. Hubbsia, Schizopelte	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Relicina	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Requienella	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Rhizocarpon	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -995,7 +995,7 @@ Sarcographa	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakot
 Sarcogyne	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Sarcosagium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Sarea	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Sarrameana	7	Symbiont	Lichen	Highly_Probable	NA	"Kantvilas G, Vezda A. 1996. Nordic Journal of Botany 16: 325-333"
+Sarrameana	7	Symbiont	Lichen	Highly_Probable	NA	Kantvilas G, Vezda A. 1996. Nordic Journal of Botany 16: 325-333
 Schadonia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Schaereria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Schismatomma	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -1005,13 +1005,13 @@ Sclerophyton	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dako
 Scoliciosporum	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Sculptolumina	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Scytinium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Secoliga	7	Symbiont	Lichen	Highly_Probable	"Syn. Cryptolechia, Gyalecta"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Secoliga	7	Symbiont	Lichen	Highly_Probable	Syn. Cryptolechia, Gyalecta	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Segestria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Seirophora	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Sigridea	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Silobia	7	Symbiont	Lichen	Highly_Probable	Syn. Myriospora	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Siphula	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Siphulastrum	7	Symbiont	Lichen	Highly_Probable	NA	Muller J. 1889. Lichenologische Beitr_ge XXXI. Flora (Regensburg). 72: 142-147
+Siphulastrum	7	Symbiont	Lichen	Highly_Probable	NA	Muller J. 1889. Lichenologische Beitrege XXXI. Flora (Regensburg). 72: 142-147
 Solenopsora	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Solitaria	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Solorina	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -1041,7 +1041,7 @@ Stenocybe	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota 
 Stephanocyclos	7	Symbiont	Lichen	Highly_Probable	NA	Outline of Ascomycota (http://www.fieldmuseum.org/myconet)
 Stereocaulon	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Sticta	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Stictina	7	Symbiont	Lichen	Highly_Probable	NA	"Nylander, W. 1860. Synopsis Methodica Lichenum Omnium hucusque Cognitorum, Praemissa Introductione Lingua Gallica. 1: 141-430"
+Stictina	7	Symbiont	Lichen	Highly_Probable	NA	Nylander, W. 1860. Synopsis Methodica Lichenum Omnium hucusque Cognitorum, Praemissa Introductione Lingua Gallica. 1: 141-430
 Stictis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Stirtonia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Strangospora	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -1075,8 +1075,8 @@ Thermutis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota 
 Tholurna	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Thrombium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Thyrea	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Tichothecium	7	Symbiont	Lichen	Highly_Probable	"Syn. Endococcus, Muellerella"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Timdalia	7	Symbiont	Lichen	Highly_Probable	NA	"Hafellner J, Turk R. 2001. Stapfia. 76:3-167"
+Tichothecium	7	Symbiont	Lichen	Highly_Probable	Syn. Endococcus, Muellerella	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Timdalia	7	Symbiont	Lichen	Highly_Probable	NA	Hafellner J, Turk R. 2001. Stapfia. 76:3-167
 Tomasellia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Toninia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Topelia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -1089,7 +1089,7 @@ Tricharia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota 
 Trichoramalina	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Trichothelium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Trimmatothele	7	Symbiont	Lichen	Highly_Probable	Syn. Anisomeridium	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Trimmatothelopsis	7	Symbiont	Lichen	Highly_Probable	NA	"Ertz D, Diederich P. 2004. Mycological Progress 3: 229-236"
+Trimmatothelopsis	7	Symbiont	Lichen	Highly_Probable	NA	Ertz D, Diederich P. 2004. Mycological Progress 3: 229-236
 Trinathotrema	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Trypethelium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Tuckermanella	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -1562,15 +1562,15 @@ Vouauxiella verrucosa	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 
 Vouauxiomyces truncatus	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Weddellomyces xanthoparmeliae	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Wentiomyces peltigericola	8	Parasite	Lichenicolous fungus	Possible	Syn. Raciborskiomyces peltigericola	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Xanthoriicola physciae	8	Parasite	Lichenicolous fungus	Possible	NA	"Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69"
+Xanthoriicola physciae	8	Parasite	Lichenicolous fungus	Possible	NA	Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69
 Xenonectriella lutescens	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Zwackhiomyces arenicola	8	Parasite	Lichenicolous fungus	Possible	NA	"Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69"
-Zwackhiomyces berengerianus	8	Parasite	Lichenicolous fungus	Possible	NA	"Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69"
-Zwackhiomyces cladoniae	8	Parasite	Lichenicolous fungus	Possible	NA	"Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69"
-Zwackhiomyces coepulonus	8	Parasite	Lichenicolous fungus	Possible	NA	"Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69"
-Zwackhiomyces dispersus	8	Parasite	Lichenicolous fungus	Possible	NA	"Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69"
-Zwackhiomyces euplocinus	8	Parasite	Lichenicolous fungus	Possible	NA	"Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69"
-Zwackhiomyces macrosporus	8	Parasite	Lichenicolous fungus	Possible	NA	"Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69"
+Zwackhiomyces arenicola	8	Parasite	Lichenicolous fungus	Possible	NA	Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69
+Zwackhiomyces berengerianus	8	Parasite	Lichenicolous fungus	Possible	NA	Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69
+Zwackhiomyces cladoniae	8	Parasite	Lichenicolous fungus	Possible	NA	Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69
+Zwackhiomyces coepulonus	8	Parasite	Lichenicolous fungus	Possible	NA	Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69
+Zwackhiomyces dispersus	8	Parasite	Lichenicolous fungus	Possible	NA	Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69
+Zwackhiomyces euplocinus	8	Parasite	Lichenicolous fungus	Possible	NA	Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69
+Zwackhiomyces macrosporus	8	Parasite	Lichenicolous fungus	Possible	NA	Hawksworth DL, Punithalingam E. 1973. Transactions of the British Mycological Society 61: 57-69
 Acanthorhynchus vaccinii	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Achlya conspicua	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Achlya klebsiana	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
