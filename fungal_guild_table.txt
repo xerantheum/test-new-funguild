@@ -58,7 +58,7 @@ Alnicola	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, 
 Alpova	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Amanita	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Amarrendia	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html
-Amaurodon	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Amaurodon	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
 Amphinema	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Amylascus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Anamika	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
@@ -93,7 +93,7 @@ Catathelasma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini
 Cazia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Cenococcum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Ceratobasidium	7	Symbiont	Ectomycorrhizal	Possible	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
-Chalciporus	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Chalciporus	7	Symbiont	Ectomycorrhizal		NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
 Chamonixia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Chloridium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Chlorogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
@@ -163,7 +163,7 @@ Gymnohydnotrya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandi
 Gymnomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Gymnopaxillus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Gyrodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto)
-Gyromitra	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Gyromitra	7	Symbiont	Ectomycorrhizal	Not-Likely	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
 Gyroporus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Hallingea	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Hebeloma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
@@ -241,7 +241,7 @@ Peziza	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW
 Phaeangium	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
 Phaeocollybia	7	Symbiont	Ectomycorrhizal	Possible	NA	http://mycorrhizas.info/ecmf.html
 Phellodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
-Phialocephala	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Phialocephala	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
 Phialophora	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
 Phlebopus	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); http://mycorrhizas.info/ecmf.html (ECM)
 Phylloporus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
@@ -256,7 +256,7 @@ Polyzellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O
 Poryphyrellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Protoglossum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Protubera	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
-Pseudoaleuria	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Pseudoaleuria	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
 Pseudoboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Pseudohysterangium	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (NA)
 Pseudotomentella	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html
@@ -346,7 +346,9 @@ Xerocomus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smit
 Youngiomyces	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
 Zelleromyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Blastomyces dermatitidis	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing blastomycosis	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904
-Candida	7	Pathogen|Symbiont	Human Pathogen	Possible	Yeast; some Candida species are opportunistic pathogens, while many others are harmless commensals or endosymbionts	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904; Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Candida	7	Symbiont	Yeast	Highly_Probable	Yeast; some Candida species are opportunistic pathogens, while many others are harmless commensals or endosymbionts	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904; Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Candida albicans	8	Pathogen	Human Pathogen	Highly_Probable	For the most part commensal but can become pathogenic	CDC website
+Candida vaginitis	8	Pathogen	Human Pathogen	Highly_Probable	NA	CDC website
 Coccidioides immitis	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing coccidioidomycosis	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904
 Coccidioides posadasii	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing coccidioidomycosis	Fisher MC, Koenig GL, White TJ, Taylor JW. 2002. Mycologia. 94: 73-84
 Histoplasma capsulatum	8	Pathogen	Human Pathogen	Highly_Probable	Facultative parasites causing	Bowman BH, Taylor JW, White TJ. Molecular Biology and Evolution 9: 893-904
@@ -4217,3 +4219,136 @@ Zymodebaryomyces	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boe
 Zymonema	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
 Zymopichia	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
 Zymoxenogloea	7	Saprotroph	Yeast	Highly_Probable	NA	Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
+Acremonium fungicola	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Acremonium tulasnei	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Aphanocladium album	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Ascocodinaea polyporicola	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Ascocodinaea stereicola	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Asterophora	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Bionectria compactiuscula	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Bionectria ochroleuca	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Boletus parasiticus	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Brauniellula	7	Parasite	Mycoparasite	Probable	NA	Tedersoo L; May TW; Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Byssostilbe stilbigera	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Chalciporus	7	Parasite	Mycoparasite	Highly_Probable	Previous reports of this genus being ectomycorrhizal, but it has never been found on root-tips, and npw treated as parasites of Amanita muscaria	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM). AE Bessette , Roody WC, AR Bessette. North American Boletes (parasites)
+Cladobotryum hughesii	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Cladobotryum polypori	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Cladobotryum uniseptatum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Claudopus parasiticus	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Clitocybe sclerotoidea	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Clitopilus daamsii	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Clitopilus passeckerianus	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Collybia cirrhata	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Collybia cookei	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Collybia olympiana	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Collybia tuberosa	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Cosmospora	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Dendrocollybia racemosa	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Dicranophora	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Diplococcium clavariarum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Elaphocordyceps	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Entoloma abortivum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Entoloma parasiticum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Entoloma pseudoparasiticum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Entoloma subdepluens	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Epicoccum purpurascens	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Gliocladium penicillioides	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Chroogomphus	7	Parasite	Mycoparasite	Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Gomphidius	7	Parasite	Mycoparasite	Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Harziella capitata	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Helminthosphaeria clavariarum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Helminthosphaeria corticiorum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Helminthosphaeria hyphodermiae	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Helminthosphaeria odontiae	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hormiactis alba	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hydropisphaera fungicola	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hydropisphaera peziza	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hyphodiscus hymeniophilus	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea ceramica	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea chromosperma	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea cinereoflava	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea estonica	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea farinosa	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea latizonata	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea lixii	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea pachybasioides	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea pallida	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea pulvinata	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea scutellaeformis	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea strictipilosa	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocrea sulphurea	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocreopsis lichenoides	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypocreopsis rhododendri	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypomyces	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Hypomyces aurantius	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Junghuhnia nitida	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Krieglsteinera lasiosphaeriae	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Lepisticola capitata	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Lyophyllum tricolor	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Melanospora lagenaria	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Melanospora zamiae	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Mycogone	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Nectriopsis candicans	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Nectriopsis exigua	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Nectriopsis tubariicola	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Nectriopsis violacea	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Nematogonum ferrugineum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Neobaria danica	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Neobarya agaricicola	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Neobarya byssicola	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Neobarya lutea	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Neobarya parasitica	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Neobarya xylariicola	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Nitschkia brevispina	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Nitschkia collapsa	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Nitschkia confertula	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Nitschkia grevillei	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Nitschkia parasitans	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Papulaspora candida	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Phaeocalicium polyporaeum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Polycephalomyces formosus	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Polycephalomyces ramosus	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Polycephalomyces tomentosus	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Polydesmi pruinosa	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Protocrea farinosa	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Psathyrella epimyces	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Pseudoboletus parasiticus	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Rhodocybe olympiana	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Rhodocybe stangliana	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Sepedonium	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Sphaeronaemella helvellae	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Sphaerostilbella aureonitens	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Spinellus	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Sporophagomyces chrysostomus	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Squamanita	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Stibella byssiseda	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Stibella flavipes	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Syspastospora parasitica	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Syzygites	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Syzygospora	7	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tephrocybe tylicolor	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Thuemenella cubispora	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella aurantia	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella encephala	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella exigua	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella foliacea	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella fuciformis	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella globispora	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella indecorata	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella invasa	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella karstenii	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella mesenterica	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella mycetophiloides	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella obscura	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella polyporina	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella simplex	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tremella subencephala	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Trichoderma chromospermum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Trichoderma harzianum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Trichoderma polysporum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Trichoderma strictiple	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Tricholoma sclerotoideum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Verticillium fungicola	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Verticillium rexianum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Verticillium succineum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Volvariella surrecta	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
