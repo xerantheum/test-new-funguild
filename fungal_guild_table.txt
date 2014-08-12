@@ -83,7 +83,7 @@ Boletopsis	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O
 Boletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Bothia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Boughera	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (NA)
-Brauniellula	7	Symbiont	Ectomycorrhizal	Possible	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
+Brauniellula	7	Symbiont	Mycoparasite|Ectomycorrhizal	Possible	Really a Chroogomphus; Parasite of Suillus pseudobrevipes.  Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
 Byssocorticium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Cadophora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Calostoma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
@@ -100,7 +100,7 @@ Chlorogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuy
 Choiromyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Chondrogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Chromelosporium	7	Symbiont	Ectomycorrhizal	Possible	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
-Chroogomphus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Chroogomphus	7	Symbiont	Mycoparasite|Ectomycorrhizal	Probable	More likely mycoparasite on suilloid fungi; could also be ECM	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html; Agerer 1990. Nova Hedwigia 50:1-63.
 Clavariadelphus	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html
 Clavulina	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Corditubera	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
@@ -153,7 +153,7 @@ Gilkeya	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, K
 Gliophorus	7	Symbiont	Ectomycorrhizal	Possible	NA	http://mycorrhizas.info/ecmf.html
 Glischroderma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Gloeocantherellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
-Gomphidius	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Gomphidius	7	Symbiont	Mycoparsite|Ectomycorrhizal	Probable	More likely mycoparasite on suilloid fungi; could also be ECM	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html; Agerer 1991. Nova Hedwigia 53:127-170.
 Gomphus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Gompogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
 Gummiglobus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
@@ -4253,8 +4253,6 @@ Entoloma pseudoparasiticum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compi
 Entoloma subdepluens	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
 Epicoccum purpurascens	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
 Gliocladium penicillioides	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
-Chroogomphus	7	Parasite	Mycoparasite	Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
-Gomphidius	7	Parasite	Mycoparasite	Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
 Harziella capitata	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
 Helminthosphaeria clavariarum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
 Helminthosphaeria corticiorum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
@@ -4352,3 +4350,7 @@ Verticillium fungicola	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled 
 Verticillium rexianum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
 Verticillium succineum	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
 Volvariella surrecta	8	Parasite	Mycoparasite	Highly_Probable	NA	List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
+Trichophaea cf hybrida	8	Mutualist	Ectomycorrhizal	Highly_Probable	This is an undescribed species of Wilcoxina	NHN unpublished
+Wakefieldia macrospora	8	Mutualist	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-94
+Destuntzia fusca	8	Mutualist	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-94
+Peziza michelii	8	Mutualist	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L & Smith ME. 2013. Fungal Biology Reviews 27: 83-94
