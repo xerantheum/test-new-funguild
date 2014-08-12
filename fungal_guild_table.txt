@@ -128,7 +128,7 @@ Ectomycorrhizae	0	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Keyword
 Ectomycorrhizal	0	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Keyword
 Efibulobasidium	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
 Elaphomyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
-Endogone	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html
+Endogone	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte); http://mycorrhizas.info/ecmf.html
 Entoloma	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html (ECM/Not ECM)
 Eremiomyces	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
 Fevansia	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
@@ -241,8 +241,8 @@ Peziza	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW
 Phaeangium	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45
 Phaeocollybia	7	Symbiont	Ectomycorrhizal	Possible	NA	http://mycorrhizas.info/ecmf.html
 Phellodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
-Phialocephala	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
-Phialophora	7	Symbiont	Ectomycorrhizal	Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Phialocephala	7	Symbiont	Ectomycorrhizal	Not_Likely	Dark septate root fungus	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
+Phialophora	7	Symbiont	Ectomycorrhizal	Not_Likely	Dark septate root fungus	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
 Phlebopus	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); http://mycorrhizas.info/ecmf.html (ECM)
 Phylloporus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Phyloboletellus	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM)
