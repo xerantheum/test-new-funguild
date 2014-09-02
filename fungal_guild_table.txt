@@ -2861,6 +2861,7 @@ Peniophora cinerea	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/p
 Peniophora sacrata	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Periconia byssoides	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Periconia circinata	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
+Periconia macrospinosa	8	Symbiont	Root Endophyte	Highly_Probable	Dark septate	Mandyam K, Loughin T, Jumpponen A. 2010. Mycologia 102:813-821
 Periconiella cocoes	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Periconiella musae	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Peridermium californicum	8	Pathogen	Plant Pathogen	Possible	NA	http://www.apsnet.org/publications/commonnames/Pages/default.aspx
