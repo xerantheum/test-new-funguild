@@ -3283,7 +3283,7 @@ Scutellospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, 
 Septoglomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
 Simiglomus	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
 Viscospora	7	Symbiont	Arbuscular mycorrhizal	Highly_Probable	NA	"Redecker D, Schussler A, Stockinger H, Sturmer SL, Morton JB, Walker C. 2013. Mycorrhiza 23: 515-531"
-Acephala	7	Symbiont	Ectomycorrhizal	Possible	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (ECM/Not ECM)"
+Acephala	7	Symbiont	Root Endophyte	Highly_Probable	Dark septate	"Stursova et al. 2014. The ISME Journal 8, 1920–1931."
 Afroboletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
 Alnicola	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
 Alpova	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
@@ -3325,6 +3325,7 @@ Cenococcum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini 
 Ceratobasidium	7	Symbiont	Ectomycorrhizal	Possible	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)"
 Chamonixia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
 Chloridium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
+Chloridium paucisporum	8	Symbiont	Root Endophyte	Highly_Probable	Dark septate	"Jumpponen A & Trappe JM. 1998. New Phytologist 140:295-310"
 Chlorogaster	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
 Choiromyces	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
 Chondrogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
@@ -3427,6 +3428,7 @@ Leccinellum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini
 Leccinum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
 Lenzitopsis	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
 Leptodontidium	7	Symbiont	Ectomycorrhizal	Conflicting_Reports	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
+Leptodontidium orchidicola	8	Symbiont	Root Endotphyte	Highly_Probable	Dark septate	"Jumpponen A & Trappe JM. 1998. New Phytologist 140:295-310"
 Leucangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
 Leucogaster	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
 Leucopaxillus	7	Symbiont	Ectomycorrhizal	Not Likely	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
@@ -3469,7 +3471,7 @@ Peziza michelii	8	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L & Smith
 Phaeangium	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45"
 Phaeocollybia	7	Symbiont	Ectomycorrhizal	Possible	NA	http://mycorrhizas.info/ecmf.html
 Phellodon	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Phialocephala	7	Symbiont	Ectomycorrhizal	Not_Likely	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)"
+Phialocephala	7	Symbiont	Root Endophyte	Highly_Probable	Dark septate	Smith & Read 2008. Mycorrhizal Symbiosis.
 Phialophora	7	Symbiont	Ectomycorrhizal	Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html"
 Phlebopus	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); http://mycorrhizas.info/ecmf.html (ECM)"
 Phylloporus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
@@ -4108,7 +4110,7 @@ Physma	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota Sta
 Phytoconis	7	Symbiont	Lichen	Highly_Probable	Syn. Lichenomphalia	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Piccolia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pilophorus	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Placidiopsis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Piriformospora indica	8	Symbiont	Root Endophyte	Highly_Probable	Promotes root growth	Applied and Environmental Microbiology 6:2741-2744Placidiopsis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Placidium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Placocarpus	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Placodium	7	Symbiont	Lichen	Highly_Probable	"Syn. Caloplaca, Gyalolechia, Pachypeltis, Polycauliona, Rusavskia, Squamulea, Xanthomendoza"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
