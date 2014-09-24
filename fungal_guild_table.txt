@@ -7,6 +7,7 @@ Ameroconium cladoniae	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 
 Arrhenia peltigerina	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Arthophacopsis parmeliarum	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Asterophoma mazaediicola	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Asterostroma	7	Parasite	Mycoparasite	Possible	Isolated from sclerotia of Cenococcum geophilum 	Obase et al. 2014. Culturable fungal assemblages growing within Cenococcum sclerotia in forest soils
 Bachmanniomyces	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Bellemerella ritae	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Biatoropsis usnearum	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -214,6 +215,7 @@ Odontotrema ochrolechiae	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger T
 Odontotrema santessonii	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Odontotrema sipei	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Odontotrema thamnoliae	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Oidiodendron	7	Parasite	Mycoparasite	Possible	Isolated from sclerotia of Cenococcum geophilum Obase et al. 2014. Culturable fungal assemblages growing within Cenococcum sclerotia in forest soils
 Opegraphoidea	7	Parasite	Lichenicolous fungus	Possible	Syn. Opegrapha non-licenized taxa	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Perigrapha superveniens	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Pezizella epithallina	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
