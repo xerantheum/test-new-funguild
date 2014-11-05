@@ -3,6 +3,8 @@ Abrothallus	7	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. Nort
 Abrothallus parmeliarum	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Acaroconium puntiforme	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Adelococcus	7	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Alloclavaria purprurea 8 Symbiont	Ectomycorrhizal	Highly_Probable	On Douglas Fir	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
+Alloclavaria  7 Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
 Ameroconium cladoniae	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Arrhenia peltigerina	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Arthophacopsis parmeliarum	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
