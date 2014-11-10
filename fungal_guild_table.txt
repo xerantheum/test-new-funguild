@@ -253,7 +253,7 @@ Plicaria	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper 
 Podohydnangium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Polyporoletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Polyzellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263
-Poryphyrellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
+Porphyrellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Protoglossum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html
 Protubera	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
 Pseudoaleuria	7	Symbiont	Ectomycorrhizal	Possible	NA	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM)
